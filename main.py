@@ -2,6 +2,8 @@ import mysql.connector
 
 # Connect to the database
 try:
+    import time 
+    time.sleep(3)
     connection = mysql.connector.connect(
         host="mysql.railway.internal",
         user="root",
