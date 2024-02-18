@@ -1,5 +1,5 @@
 telebot
-mysql
+mysql-connector-python
 aiomysql
 asyncio
 
