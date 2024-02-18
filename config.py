@@ -1,6 +1,6 @@
 TOKEN = "6830214220:AAEgOFuertaGze3ggKrgxw7-4K5RGmKBTnM"
 
-DBHOST = "mysql.railway.internal:3306"
+DBHOST = "mysql.railway.internal"
 DBPORT = 3306
 DBUSER = "root"
 DBPASS = "fEg4bBahd4BDf23-gbagE3-eAbDFBda6"
