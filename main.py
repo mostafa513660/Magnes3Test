@@ -6,8 +6,7 @@ try:
         host="mysql.railway.internal",
         user="root",
         password="fEg4bBahd4BDf23-gbagE3-eAbDFBda6",
-        database="railway",
-        port=3306
+        database="railway"
     )
 
     if connection.is_connected():
