@@ -2,4 +2,4 @@ telebot
 mysql-connector-python
 aiomysql
 asyncio
-
+aiohttp
