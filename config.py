@@ -1,7 +1,7 @@
 TOKEN = "6830214220:AAEgOFuertaGze3ggKrgxw7-4K5RGmKBTnM"
 
-DBHOST = "roundhouse.proxy.rlwy.net"
-DBPORT = 25275
+DBHOST = "mysql.railway.internal"
+DBPORT = 3306
 DBUSER = "root"
 DBPASS = "fEg4bBahd4BDf23-gbagE3-eAbDFBda6"
 DBNAME = "railway"
